@@ -18,7 +18,8 @@ object **Chrystian Natanael** {
  val languages = listOf("C", "Python", "HTML5", "CSS", "Bash", "Git")
 }
 ```
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="console"/>
+<img width="64" height="64" src="https://icons8.com/icon/uLDrtp8o8zTG/python" alt="Python"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Console"/>
 
 # Status
 
