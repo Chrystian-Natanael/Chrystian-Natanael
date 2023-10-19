@@ -3,10 +3,10 @@
 # Greetings everyone 👋
 
 ### I love technology , eternal student, nerd and curious
+<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="518" height="301" />
 
 # More about me
 
-<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="498" height="281" />
 
 ```kotlin
 object **Chrystian Natanael** {
