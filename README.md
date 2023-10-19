@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<span style="color: green">
-<h1>Greetings everyone 👋</h1>
-</span>
+# Greetings everyone 👋
 
 ### I love technology , eternal student, nerd and curious
 <img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="980" height="501" />
