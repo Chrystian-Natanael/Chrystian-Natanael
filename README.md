@@ -3,7 +3,7 @@
 # Greetings everyone 👋
 
 ### I love technology , eternal student, nerd and curious
-<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="618" height="401" />
+<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="980" height="501" />
 
 # More about me
 
@@ -29,13 +29,13 @@ object **Chrystian Natanael** {
 
 # Status
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Chrystian-Natanael">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrystian-Natanael&show_icons=true&theme=tokyonight&line_height=27" alt="**Chrystian Natanael** github stats"/>
-</a><a href="https://github.com/Gurupreet">
+</a><a href="https://github.com/Chrystian-Natanael">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrystian-Natanael&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <br>
 
 # Rede sociais
-
+![Linkedin](https://img.icons8.com/?size=154&id=44019&format=png)(www.youtube.com)
