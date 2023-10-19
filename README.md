@@ -23,8 +23,8 @@ object **Chrystian Natanael** {
 
 ![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png)
 ![Python](https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247)
-![image](https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247)
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Console"/>
+<img width="98" height="98" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Console"/>
+![VSCode](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png)
 
 # Status
 
