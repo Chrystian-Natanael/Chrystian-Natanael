@@ -37,6 +37,8 @@ object **Chrystian Natanael** {
 
 <br>
 
+# My path in 42SP
+
 # Rede sociais
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
 [![Instagram](https://img.icons8.com/?size=70&id=43625&format=png)](https://www.instagram.com/chrystian__natanael/)
