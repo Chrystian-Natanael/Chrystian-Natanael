@@ -38,4 +38,4 @@ object **Chrystian Natanael** {
 <br>
 
 # Rede sociais
-[![Linkedin](https://img.icons8.com/?size=700&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
+[![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
