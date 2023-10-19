@@ -38,4 +38,4 @@ object **Chrystian Natanael** {
 <br>
 
 # Rede sociais
-![Linkedin](https://img.icons8.com/?size=154&id=44019&format=png)(www.youtube.com)
+[![Linkedin](https://img.icons8.com/?size=154&id=44019&format=png)](www.youtube.com)
