@@ -3,7 +3,7 @@
 # Greetings everyone 👋
 
 ### I love technology , eternal student, nerd and curious
-<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="518" height="301" />
+<img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="618" height="401" />
 
 # More about me
 
@@ -25,6 +25,7 @@ object **Chrystian Natanael** {
 ![Python](https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247)
 <img width="98" height="98" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Console"/>
 ![VSCode](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png)
+![HTML5](https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png)
 
 # Status
 
