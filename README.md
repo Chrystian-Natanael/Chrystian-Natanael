@@ -39,6 +39,10 @@ object **Chrystian Natanael** {
 
 # My path in 42SP
 
+[<img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="80">](https://github.com/Chrystian-Natanael/Libft)
+[<img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="80">](https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Get_next_line)
+
+
 # Rede sociais
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
 [![Instagram](https://img.icons8.com/?size=70&id=43625&format=png)](https://www.instagram.com/chrystian__natanael/)
