@@ -51,10 +51,10 @@ if (true)
 # My path in `42SP`
 
 <p align="center">
-  <a href="https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Libft">
+  <a href="https://github.com/Chrystian-Natanael/Libft">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="130">
   </a>
-    <a href="https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Get_next_line">
+    <a href="https://github.com/Chrystian-Natanael/Get_next_line">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
   </a>
 </p>
