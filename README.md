@@ -10,22 +10,33 @@
 
 ```kotlin
 object **Chrystian Natanael** {
- val name = "Chrystian Natanael Magalhães S. Nascimento"
- val acknowledgements = "Knowledge area"
-	if (true)
-		"Web Development, Desktop Software Developer and more coming soon"
- val primarySkillset = "SOME LANGUAGES AND TOOLS"
- val languages = listOf("C", "Python", "HTML5", "CSS", "Bash", "Git")
+val name = "Chrystian Natanael Magalhães S. Nascimento"
+if (true)
+	"Web Development, Desktop Software Developer and more coming soon"
+ while Skillset = "SOME LANGUAGES AND TOOLS"
+	 val languages = listOf("C", "Python", "HTML5", "CSS", "Bash", "Git")
 }
 ```
 
 # Some Languages and Tools
 
-![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png)
-![Python](https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247)
-<img width="98" height="98" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Console"/>
-![VSCode](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png)
-![HTML5](https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png)
+<p align="center">
+  <a href="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png">
+  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png" alt="libft" width="98">
+  </a>
+   <a href="https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247">
+  <img src="https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247" alt="libft" width="98">
+  </a>
+  <a href="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png">
+  <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="libft" width="98">
+  </a>
+  <a href="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png">
+  <img src="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png" alt="libft" width="98">
+  </a>
+   <a href="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png">
+  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png" alt="libft" width="98">
+  </a>
+</p>
 
 # Status
 
@@ -37,11 +48,16 @@ object **Chrystian Natanael** {
 
 <br>
 
-# My path in 42SP
+# My path in `42SP`
 
-[<img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="80">](https://github.com/Chrystian-Natanael/Libft)
-[<img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="80">](https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Get_next_line)
-
+<p align="center">
+  <a href="https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Libft">
+  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="130">
+  </a>
+    <a href="https://github.com/Chrystian-Natanael/https://github.com/Chrystian-Natanael/Get_next_line">
+  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
+  </a>
+</p>
 
 # Rede sociais
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
