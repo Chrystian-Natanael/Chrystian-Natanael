@@ -59,7 +59,7 @@ if (true)
   </a>
 </p>
 
-# Rede sociais
+# Social midia
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
 [![Instagram](https://img.icons8.com/?size=70&id=43625&format=png)](https://www.instagram.com/chrystian__natanael/)
 [![Email](https://img.icons8.com/?size=70&id=48165&format=png)](mailto:chrystian.natanael.msn@gmail.com?subject=I%20found%20you%20on%20your%20github&body=)
