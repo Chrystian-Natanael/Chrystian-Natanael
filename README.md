@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Greetings everyone 👋
+# Greetings everyone <a href="#"><img align='left' src='https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif' width='35'></a>
 
 ### I love technology , eternal student, nerd and curious
 <img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="980" height="501" />
@@ -38,13 +38,12 @@ if (true)
   </a>
 </p>
 
-# Status
+# GitHub Status
 
-<a href="https://github.com/Chrystian-Natanael">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chrystian-Natanael&show_icons=true&theme=tokyonight&line_height=27" alt="**Chrystian Natanael** github stats"/>
-</a><a href="https://github.com/Chrystian-Natanael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrystian-Natanael&theme=tokyonight&hide_langs_below=1" />
-</a>
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Chrystian-Natanael&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chrystian-Natanael&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
+</div>
 
 <br>
 
@@ -57,7 +56,10 @@ if (true)
     <a href="https://github.com/Chrystian-Natanael/Get_next_line">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
   </a>
+
+[![42 Game](https://img.shields.io/badge/Game-profile-blue?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/cnatanae)
 </p>
+
 
 # Social midia
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
