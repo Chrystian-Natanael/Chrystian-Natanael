@@ -71,15 +71,15 @@ if (true)
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Get_next_line">
+    <a href="https://github.com/Chrystian-Natanael/Printf">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/ft_printfm.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Get_next_line">
+    <a href="https://github.com/Chrystian-Natanael/Born2beroot">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/born2berootm.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Get_next_line">
+    <a href="https://github.com/Chrystian-Natanael/FDF">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/fdfm.png" alt="libft" width="130">
   </a>
 
