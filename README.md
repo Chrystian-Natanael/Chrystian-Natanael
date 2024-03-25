@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Greetings everyone <a href="#"><img align='left' src='https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif' width='35'></a>
+# Greetings everyone <a href="#"><img align='left' src='https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif' width='35'></a> 
 
-### I love technology , eternal student, nerd and curious
+## Software Engenieer | 42 SP Student | Desktop Software Dev | Computer Scientist | And more...
 <img src="https://media.tenor.com/C1r3YSmu4IQAAAAC/coding.gif" width="980" height="501" />
 
 # More about me
@@ -17,25 +17,17 @@ if (true)
 	 val languages = listOf("C", "Python", "HTML5", "CSS", "Bash", "Git")
 }
 ```
+<br>
 
-# Some Languages and Tools
+# Main Hardskills
 
 <p align="center">
-  <a href="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png">
-  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png" alt="libft" width="98">
-  </a>
-   <a href="https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247">
-  <img src="https://github.com/Chrystian-Natanael/Chrystian-Natanael/assets/90218717/9ef1bc66-a45b-435c-91df-64f962853247" alt="libft" width="98">
-  </a>
-  <a href="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png">
-  <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="libft" width="98">
-  </a>
-  <a href="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png">
-  <img src="https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png" alt="libft" width="98">
-  </a>
-   <a href="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png">
-  <img src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png" alt="libft" width="98">
-  </a>
+  <img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png" alt="Git && Github" width="98">
+  <img src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png" alt="Python" width="98">
+  <img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png" alt="Java" width="98">
+  <img src="https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png" alt="C" width="98">
+  <img src="https://img.icons8.com/?size=100&id=VUz0bWTR5Trl&format=png" alt="Shell && Linux" width="98">
+  <img src="https://img.icons8.com/?size=100&id=68239&format=png" alt="Data base" width="98">
 </p>
 
 # GitHub Status
@@ -67,20 +59,26 @@ if (true)
   <a href="https://github.com/Chrystian-Natanael/Libft">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="130">
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Get_next_line">
+  <a href="https://github.com/Chrystian-Natanael/Get_next_line">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Printf">
+  <a href="https://github.com/Chrystian-Natanael/Printf">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/ft_printfm.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/Born2beroot">
+  <a href="https://github.com/Chrystian-Natanael/Born2beroot">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/born2berootm.png" alt="libft" width="130">
   </a>
   </a>
-    <a href="https://github.com/Chrystian-Natanael/FDF">
+  <a href="https://github.com/Chrystian-Natanael/FDF">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/fdfm.png" alt="libft" width="130">
+  </a>
+  <a href="https://github.com/Chrystian-Natanael/Pipex">
+  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/pipexm.png" alt="pipex" width="130">
+  </a>
+  <a href="https://github.com/Chrystian-Natanael/Push_swap">
+  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/push_swapm.png" alt="push_swap" width="130">
   </a>
 
 [![42 Game](https://img.shields.io/badge/Game-profile-blue?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/cnatanae)
@@ -88,6 +86,12 @@ if (true)
 
 
 # Social midia
-[![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael-677a1b179/)
+[![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael/)
 [![Instagram](https://img.icons8.com/?size=70&id=43625&format=png)](https://www.instagram.com/chrystian__natanael/)
 [![Email](https://img.icons8.com/?size=70&id=48165&format=png)](mailto:chrystian.natanael.msn@gmail.com?subject=I%20found%20you%20on%20your%20github&body=)
+[![Whatsapp](https://img.icons8.com/?size=70&id=43677&format=png)](https://api.whatsapp.com/send?phone=5511948895020&text=Ol%C3%A1,%20vim%20pelo%20seu%20perfil%20no%20github%20%E2%9C%8B%F0%9F%8F%BB)
+
+<br>
+
+# Thanks for visiting my profile
+<img src="https://img.icons8.com/?size=70&id=VjCiZhIci1Dn&format=png" alt="Walter White" width="65">
