@@ -53,37 +53,6 @@ if (true)
   />
 </picture>
 
-# My path in `42SP`
-
-<p align="center">
-  <a href="https://github.com/Chrystian-Natanael/Libft">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/libftm.png" alt="libft" width="130">
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/Get_next_line">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/get_next_linem.png" alt="libft" width="130">
-  </a>
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/Printf">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/ft_printfm.png" alt="libft" width="130">
-  </a>
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/Born2beroot">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/born2berootm.png" alt="libft" width="130">
-  </a>
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/FDF">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/fdfm.png" alt="libft" width="130">
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/Pipex">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/pipexm.png" alt="pipex" width="130">
-  </a>
-  <a href="https://github.com/Chrystian-Natanael/Push_swap">
-  <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/badges/push_swapm.png" alt="push_swap" width="130">
-  </a>
-
-[![42 Game](https://img.shields.io/badge/Game-profile-blue?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/cnatanae)
-</p>
-
 
 # Social midia
 [![Linkedin](https://img.icons8.com/?size=70&id=44019&format=png)](https://www.linkedin.com/in/chrystian-natanael/)
